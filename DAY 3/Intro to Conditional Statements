@@ -14,7 +14,7 @@ A single line containing a positive integer, .
 Constraints
 
 Output Format
-
+ 
 Print Weird if the number is weird; otherwise, print Not Weird.
 
 Sample Input 0
@@ -32,7 +32,7 @@ Not Weird
 Explanation
 
 Sample Case 0: 
- is odd and odd numbers are weird, so we print Weird.
+ 3 is odd and odd numbers are weird, so we print Weird.
 
 Sample Case 1: 
  and  is even, so it is not weird. Thus, we print Not Weird.
