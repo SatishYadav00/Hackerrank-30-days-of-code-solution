@@ -26,6 +26,7 @@ If your code is correctly written and s is a palindrome, the locked stub code wi
 Sample Input
 
 racecar
+
 Sample Output
 
 The word, racecar, is a palindrome.
