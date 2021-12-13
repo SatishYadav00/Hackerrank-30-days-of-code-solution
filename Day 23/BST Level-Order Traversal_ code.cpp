@@ -59,4 +59,16 @@ class Solution{
   
 	}
 
-};//End of Solution
+};
+int main(){
+    Solution myTree;
+    Node* root=NULL;
+    int T,data;
+    cin>>T;
+    while(T-->0){
+        cin>>data;
+        root= myTree.insert(root,data);
+    }
+    myTree.levelOrder(root);
+    return 0;
+}
