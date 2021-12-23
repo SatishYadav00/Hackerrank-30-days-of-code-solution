@@ -12,7 +12,7 @@ An integer array (or vector) of test scores,scores .
 A char calculate() method that calculates a Student object's average and returns the grade character representative of their calculated average:
 
 
-Input Format
+# Input Format #
 
 The locked stub code in the editor reads the input and calls the Student class constructor with the necessary arguments. It also calls the calculate method which takes no arguments.
 
