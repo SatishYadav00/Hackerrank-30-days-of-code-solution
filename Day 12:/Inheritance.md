@@ -18,16 +18,16 @@ The locked stub code in the editor reads the input and calls the Student class c
 
 The first line contains firstName, lastName, and idNumber, separated by a space. The second line contains the number of test scores. The third line of space-separated integers describes scores  .
 
-Output Format
+### Output Format
 
 Output is handled by the locked stub code. Your output will be correct if your Student class constructor and calculate() method are properly implemented.
 
-Sample Input
+### Sample Input
 
 Heraldo Memelli 8135627
 2
 100 80
-Sample Output
+### Sample Output
 
  Name: Memelli, Heraldo
  ID: 8135627
