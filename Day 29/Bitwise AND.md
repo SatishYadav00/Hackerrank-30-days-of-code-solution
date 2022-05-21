@@ -5,8 +5,8 @@ Given set **S={1,2,3,.....,N}**. Find two integers, A and B (where A<B ), from s
 Complete the bitwiseAnd function in the editor below.
 
 bitwiseAnd has the following paramter(s):
-- int N: the maximum integer to consider
-- int K: the limit of the result, inclusive
+- int**N**: the maximum integer to consider
+- int**K:**the limit of the result, inclusive
 
 ### Returns
 - int: the maximum value of  *A&B*  within the limit.
@@ -21,12 +21,12 @@ Each of the T subsequent lines defines a test case as 2 space-separated integers
 
 STDIN   Function
 -----   --------
-3       T = 3
-5 2     N = 5, K = 2
-8 5     N = 8, K = 5
-2 2     N = 8, K = 5
-## Sample Output
+3       T = 3  
+5 2     N = 5, K = 2  
+8 5     N = 8, K = 5  
+2 2     N = 8, K = 5  
+## Sample Output  
 
-1
-4
-0
+1  
+4  
+0  
